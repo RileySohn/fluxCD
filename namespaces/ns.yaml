@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   labels:
     name: demo
-  name: flux-demo
+  name: flux-demo2
